@@ -19,8 +19,8 @@
 | **[Business Audit Report Generator](https://audit-report-generator.streamlit.app/)** | Streamlit, LLMs | Auto-generates company audit reports using structured JSON |
 | **[PV Energy Output Prediction](https://pv-output-predictor.streamlit.app/)** | XGBoost, MLflow | Predicts solar output from weather data |
 | **[Health Insurance Cost Predictor](https://health-insurance-predictor.streamlit.app/)** | scikit-learn | Estimates insurance premiums from demographic data |
-| ☀️ [**PV Output Predictor**](https://pv-output-predictor.streamlit.app/) | XGBoost, MLflow | Predicts photovoltaic energy output using solar weather data |
-| 🏥 [**Health Insurance Cost Estimator**](https://health-insurance-predictor.streamlit.app/) | scikit-learn | Predicts insurance premiums based on lifestyle and demographics |
+| 🔍 [**AutoApplyX – AI Job Search Agent**](https://autoapplyx-aman-007.streamlit.app/) | Streamlit, PDF Parsing, Semantic Search | Matches your resume to live job listings and ranks them by similarity |
+| 📝 [**AI Memoir Co-Writer**](https://aimemoir.streamlit.app/) | LangChain, Agents, Prompt Chaining | Helps users write and rewrite personal memoirs using intelligent prompts |
 ---
 
 ## 💼 Let’s Connect
