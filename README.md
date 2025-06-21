@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amanpreet Ahluwalia
 
-🎓 AI Engineer | 🧠 LLM Developer | 💼 Former IT Consultant (Tech Mahindra)  
+🎓 AI Engineer | 🧠 LLM Developer | 💼 Former IT Specialist (Tech Mahindra)  
 🌍 Currently based in the UK | 🎯 Open to AI/ML Roles | 💻 Portfolio: [My Projects](https://amanpreetsingh0071.github.io/Aman_portfolio)
 
 ---
