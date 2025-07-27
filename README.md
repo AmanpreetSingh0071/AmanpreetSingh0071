@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 Passionate about building intelligent systems with **LLMs**, **RAG pipelines**, and **open-source tools**
+- 👨‍💻 Passionate about building intelligent systems with **LLMs**, **RAG pipelines** and **open-source tools**
 - 🏛 MSc Artificial Intelligence (University of Hertfordshire)
 ---
 
